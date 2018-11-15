@@ -1,3 +1,6 @@
+#You should work harder Guillermo. Sorry. Not sorry
+
+
 setwd("/Users/guillermoserrahv/Desktop/Ubiqum/CarsComputers")
 getwd()
 library(caret)
